@@ -1,0 +1,6 @@
+python-telegram-bot==20.7
+instaloader==4.10.1
+aiohttp==3.9.3
+vosk==0.3.45
+python-dotenv==1.0.0
+
