@@ -1,0 +1,14 @@
+{
+  "name": "instagram-downloader-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot untuk download Instagram + transkrip",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.15.3",
+    "axios": "^1.6.2",
+    "yt-dlp-exec": "^3.0.0"
+  }
+}
